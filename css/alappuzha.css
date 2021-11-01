@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    padding-top: 5em;
+}
+.container .card{
+    border: none;
+}
+p{
+    font-family: sans-serif;
+}
+.hotspot{
+    height: 100%;
+    box-shadow:0 0 10px 1px rgba(37, 73,214, 0.18);}

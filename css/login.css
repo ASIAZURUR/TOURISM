@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin:0px ;
+}
+body {
+    padding-top:25vh;
+    background: #e08d12;
+    background: linear-gradient(to right, #c79b23, #d8943c);
+  }
+
+  .card{
+    height: 550px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+  }
+  
+  .btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+  }
+  
+  .btn-google {
+    color: white !important;
+    background-color: #ea4335;
+    
+  }
+  
+  .btn-facebook {
+    color: white !important;
+    background-color: #3b5998;
+    
+  }
+  .navbar-nav{
+    font-family: sans-serif;
+    font-size: medium;
+    
+  }
+  footer a{
+    text-decoration: none;
+  }
+  
+  }
+  

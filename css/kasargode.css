@@ -1,0 +1,49 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+/* hotspot styling */
+.hotspots{
+    padding:0 0 50px  0;
+}
+.hotspots h1{
+    text-align: center;
+    padding-bottom: 30px;
+    justify-content: center;
+}
+.hotspot-img img{
+    width: 100%;
+
+}
+.hotspot-detais{
+    font: weight 600px; 
+    margin-top: 20px;
+    text-align: justify;
+    padding: 20px;
+}
+.hotspot-detais h4{
+    text-align: center;
+    justify-content: center;
+}
+.hotspot-box{
+    height: 100%;
+    box-shadow:0 0 10px 1px rgba(37, 73,214, 0.18);
+    margin-bottom: 30px;
+    
+}
+.district-img img{
+    width: 100%;
+    background-position: center;
+}
+
+.district h1{
+    margin-top:120px ;
+    justify-content: center;
+    text-align: center;
+    
+}
+.district p{
+    padding-top: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
