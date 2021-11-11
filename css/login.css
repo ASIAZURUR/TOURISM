@@ -43,5 +43,8 @@ body {
     text-decoration: none;
   }
   
-  }
+/* input[type=email]:focus{
+  outline: 0px;
+  outline-style: hidden;
+} */
   
